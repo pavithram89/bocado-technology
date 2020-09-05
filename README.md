@@ -1,2 +1,1 @@
-# bocado-technology
-bocado technology
+# bocado
